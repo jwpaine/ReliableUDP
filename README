@@ -1,0 +1,7 @@
+John Paine
+COS 440 HW 3 (Project 1)
+
+COMPILE:
+	Within the directory containing the source code issue: 'make'
+RUNNING:
+	in seperate windows, issue './client' and './server'
